@@ -15,8 +15,12 @@
 	max-width: 62.5em;
 	padding: 0 0.625em ;
 }
-.comments-title, .comment-list, .comment-reply-title, .must-log-in, .comment-respond .comment-form, .comment-respond iframe, .comments-title, .comment-list, .comment-reply-title, .must-log-in, .comment-respond .comment-form, .comment-respond iframe{
+.comments-title, .comment-list,  .must-log-in, .comment-respond .comment-form, .comment-respond iframe{
 	max-width: 62.5em;
+}
+.comment-reply-title {
+	width: auto;
+	max-width: 1000px;
 }
 .no-pad{
       padding-top: 0;
