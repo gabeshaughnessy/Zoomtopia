@@ -1,6 +1,7 @@
 .htaccess
 wp-config.php
 wp-content/uploads/
+wp-content/themes/twentytwelve
 wp-content/plugins/
 wp-content/blogs.dir/
 wp-content/upgrade/
