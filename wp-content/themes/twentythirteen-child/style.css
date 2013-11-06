@@ -11,6 +11,10 @@
 @import url("../twentythirteen/style.css");
 
 /* LAYOUT CLASSES */
+.entry-content {
+	max-width: 62.5em;
+	padding: 0 0.625em ;
+}
 .no-pad{
       padding-top: 0;
   padding-bottom: 0;
