@@ -9,7 +9,43 @@
 */
 
 @import url("../twentythirteen/style.css");
+
+/* LAYOUT CLASSES */
+.no-pad{
+      padding-top: 0;
+  padding-bottom: 0;
+  }
+  .pad {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+.no-margin {
+margin: 0;
+}
+  .banner {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+hr {
+	margin: 8px 0;
+}
+@media only screen and (max-width: 768px) {
+.small-pad {
+	padding-top: 2em;
+    padding-bottom: 2em;
+}
+}
+
 #wpstats {
 	opacity: 0;
 	position: absolute;
+}
+/* TENANT LISTINGS */
+.tenant {
+	
+
+}
+.business-title {
+	margin:0 0 4px;
 }

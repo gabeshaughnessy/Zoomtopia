@@ -13,4 +13,9 @@ function aa_custom_upload_mimes( $existing_mimes ) {
 }
 add_filter( 'mime_types', 'aa_custom_upload_mimes' );
 
+function printArray($array){
+	echo '<pre>';
+print_r($array);
+echo '<pre>';
+}
 ?>
