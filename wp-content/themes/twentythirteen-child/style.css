@@ -11,7 +11,7 @@
 @import url("../twentythirteen/style.css");
 
 /* LAYOUT CLASSES */
-.entry-content {
+.entry-header, .entry-content, .entry-summary, .entry-meta {
 	max-width: 62.5em;
 	padding: 0 0.625em ;
 }
