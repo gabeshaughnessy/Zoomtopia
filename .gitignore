@@ -1,5 +1,6 @@
 .htaccess
 wp-config.php
+local-config.php
 wp-content/uploads/
 wp-content/themes/twentytwelve
 wp-content/plugins/
